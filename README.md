@@ -553,14 +553,6 @@ Please feel free to submit issues, feature requests, or pull requests.
 
 ---
 
-# 📄 License
-
-This project is licensed under the MIT License.
-
-You are free to use, modify, and distribute this software in accordance with the terms of the license.
-
----
-
 # ⭐ Project Highlights
 
 - 🧠 Intelligent Natural Language Assistant
